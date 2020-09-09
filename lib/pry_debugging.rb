@@ -1,4 +1,5 @@
-def plus_two (num)
-	puts "there are #{num} solutions"
+def plus_two(num)
+	num + num 
+	num
 	binding.pry 
 end
